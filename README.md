@@ -1,0 +1,1 @@
+# Combinacion_ocr_traductor_audio
